@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    color: black;
+
+}
+
+body{
+    background-color: gray;
+}
+
+#Select{
+    background-color: gray;
+    width: 100px;
+    height: 30px;
+}
+.search{
+    background-color: gray;
+    width: 100px;
+    height: 32px;
+}
+
+hr.must {
+    border: 3px solid black;
+  }
